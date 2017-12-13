@@ -1,0 +1,21 @@
+{
+    "name": "benderalex/yii2-alpha",
+    "description": "Alpha",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "benderalex",
+            "email": "benderalex5@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "benderalex\\alpha\\": ""
+        }
+    }
+}
